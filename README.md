@@ -23,7 +23,7 @@ This is a simple Python application built using the Tkinter library to draw circ
 
 ## Usage
 
-1. Run the `janela.py` script using Python or go to app\janela and run `janela.exe`:
+1. Run the `janela.py` script using Python:
 
    ```bash
    python janela.py
